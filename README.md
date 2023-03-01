@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @concal96
-- 👀 I’m interested in Web
-- 🌱 I’m currently learning Java
+- 👀 I’m interested in Parallel Programming
+- 🌱 I’m currently learning CUDA
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me https://www.linkedin.com/in/connor-callaghan-14a97aa5/
 
